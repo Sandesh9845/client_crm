@@ -1,0 +1,11 @@
+.backgroundRegister{
+    background-color: red;
+}
+
+.registerstyle {
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+}

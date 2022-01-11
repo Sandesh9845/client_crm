@@ -1,0 +1,13 @@
+img{
+    display:flex;
+}
+.headers {
+    display: flex;
+    flex-direction: row;
+    
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
